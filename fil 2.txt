@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 conflict Hri commpsimei
 
+=======
+test
+add
+>>>>>>> parent of 82c375c (change by Hripsime)
+git l
